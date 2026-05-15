@@ -491,7 +491,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/yan-xu-1326", "_blank");
+          window.open("https://www.linkedin.com/in/yan-xu-1848bb260", "_blank");
         },
       },{
         id: 'social-github',
