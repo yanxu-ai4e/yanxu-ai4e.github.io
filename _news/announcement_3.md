@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**May 2026**: I was happy to co-chair the first MTL AI Hackson from May 8–10 and give a tutorial during the event. It was a unique and rewarding experience, with many inspiring talks from industry speakers.
+I was happy to co-chair the first [MTL AI Hackson](https://mtl-hackathon.mit.edu/) from May 8–10 and give a tutorial during the event. It was a unique and rewarding experience, with many inspiring talks from industry speakers.

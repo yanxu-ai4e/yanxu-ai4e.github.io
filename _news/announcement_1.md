@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**May 2026**: I am excited to join MACOM as a summer intern in Lowell, working on AI for RFIC design.
+I am excited to join MACOM as a summer intern in Lowell, working on AI for RFIC design.
