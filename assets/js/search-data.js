@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-news",
           title: "news",
           description: "",
@@ -50,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -426,16 +412,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-presented-a-demo-at-mgaic-2026-on-our-locally-deployable-small-language-model-for-optimizing-analog-integrated-circuits",
+          title: 'I presented a demo at MGAIC 2026 on our locally deployable small language...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-may-2026-i-was-happy-to-co-chair-the-first-mtl-ai-hackson-from-may-8-10-and-give-a-tutorial-during-the-event-it-was-a-unique-and-rewarding-experience-with-many-inspiring-talks-from-industry-speakers",
-          title: 'May 2026: I was happy to co-chair the first MTL AI Hackson from...',
+          section: "News",},{id: "news-i-gave-a-talk-at-the-mit-center-for-integrated-circuits-and-systems-cics-presenting-our-work-slic-reinforcement-fine-tuning-small-lms-for-multi-turn-analog-circuit-optimization",
+          title: 'I gave a talk at the MIT Center for Integrated Circuits and Systems...',
           description: "",
-          section: "News",},{id: "news-may-2026-i-am-excited-to-join-macom-as-a-summer-intern-in-lowell-working-on-ai-for-rfic-design",
-          title: 'May 2026: I am excited to join MACOM as a summer intern in...',
+          section: "News",},{id: "news-i-was-happy-to-co-chair-the-first-mtl-ai-hackson-from-may-8-10-and-give-a-tutorial-during-the-event-it-was-a-unique-and-rewarding-experience-with-many-inspiring-talks-from-industry-speakers",
+          title: 'I was happy to co-chair the first MTL AI Hackson from May 8–10...',
+          description: "",
+          section: "News",},{id: "news-i-am-excited-to-join-macom-as-a-summer-intern-in-lowell-working-on-ai-for-rfic-design",
+          title: 'I am excited to join MACOM as a summer intern in Lowell, working...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
