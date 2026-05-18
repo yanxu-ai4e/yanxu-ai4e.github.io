@@ -27,7 +27,7 @@ I am Yan Xu, a third-year PhD student at MIT EECS, advised by Professor [Ruonan 
 
 As a PhD student, my research interests have gradually shifted toward Generative AI, especially language models and agentic AI for mixed-signal IC design. I am broadly interested in agentic reinforcement learning (RL), circuit representation, and AI-assisted circuit design. Please feel free to reach out if you are interested in connecting or collaborating.
 
-Outside research, I enjoy [lead climbing, bouldering, and mountaineering](/miscellaneous/).
+Outside research, I enjoy [lead climbing, bouldering, mountaineering, hiking, skiing, and running](/miscellaneous/).
 
 [Email](yanx1326@mit.edu) /
 [LinkedIn](https://www.linkedin.com/in/yan-xu-1848bb260/) /
