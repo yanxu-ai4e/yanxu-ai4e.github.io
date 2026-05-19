@@ -30,6 +30,6 @@ As a PhD student, my research interests have gradually shifted toward Generative
 Outside research, I enjoy [lead climbing, bouldering, mountaineering, hiking, skiing, and running](/miscellaneous/).
 
 [Email](yanx1326@mit.edu) /
-[LinkedIn](https://www.linkedin.com/in/yan-xu-1848bb260/) /
+[LinkedIn](https://www.linkedin.com/in/yan-xu-ai4e/) /
 [GitHub](https://github.com/yanxu-ai4e) /
 [Google Scholar](https://scholar.google.com/citations?user=B_PpfHYAAAAJ)
